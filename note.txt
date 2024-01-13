@@ -1,0 +1,66 @@
+java -jar ws-warehouse-system-0.0.1-SNAPSHOT.jar
+brand[1-Marcas]
+    get-all
+    save
+    update
+product[2-Productos]
+    get-all
+    save
+    update ???
+store[3-Almacenes]
+    save
+    get-all
+Type[4-Tipos]
+    get-all
+    save
+category[5-Categorias]
+    get-all
+    save
+    update
+Reportes[6-Reportes]
+head-quarter[7-Sedes]
+    get-all
+    save
+    update ???
+Ventas y Proformas[8-Ventas y Proformas]
+Employee[9-Empleado]
+    get-all
+    save
+    update
+User[10-Usuarios]
+    get-all
+permission[10-Roles]
+    get-by-role
+    save by role
+    update by role
+roles[11-Roles]
+    get-all
+    save
+    update
+Proveedor[12-Proveedor]
+    get-all ????
+    save ?????
+Material[13-Materiales]
+    get-all
+    save
+    update
+Company[14-Compañias]
+    get-all
+    save
+    update
+LOGIN
+    AUTH
+    REFRESH
+MODULE
+    GET-ALL
+supplier-contact-controller
+    get-all
+    save
+
+
+
+
+
+
+
+
